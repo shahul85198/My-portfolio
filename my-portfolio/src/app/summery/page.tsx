@@ -1,4 +1,4 @@
-import Profile from "../../../content/profile";
+import Profile from "../../../portfoliohomepage/profile";
 
 export default function Summery() {
     return (

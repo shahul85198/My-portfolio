@@ -2,7 +2,7 @@
 
 function Profile() {
   return (
-    <div className="flex">
+    <div className="flex grid-2">
       <div>
         <h1>
           Hello,
@@ -16,7 +16,7 @@ function Profile() {
         </p>
       </div>
       <div>
-        <img src="https://i.stack.imgur.com/TSsVA.png?s=256&g=1"  />
+        <img src="https://i.stack.imgur.com/TSsVA.png?s=256&g=1" className="w-80" />
       </div>
     </div>
   )
